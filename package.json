@@ -1,0 +1,26 @@
+{
+  "name": "wangsaf",
+  "version": "1.0.0",
+  "description": "Zero p 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanyutBadag/horahore.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp"
+  ],
+  "author": "ujang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanyutBadag/horahore/issues"
+  },
+  "homepage": "https://github.com/KanyutBadag/horahore#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2"
+  }
+}
